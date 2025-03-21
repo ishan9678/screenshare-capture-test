@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/ishan9678/screenshare-capture-test/static/js/main.11ad625e.js",
-    "index.html": "/ishan9678/screenshare-capture-test/index.html",
-    "main.11ad625e.js.map": "/ishan9678/screenshare-capture-test/static/js/main.11ad625e.js.map"
+    "main.js": "/screenshare-capture-test/static/js/main.11ad625e.js",
+    "index.html": "/screenshare-capture-test/index.html",
+    "main.11ad625e.js.map": "/screenshare-capture-test/static/js/main.11ad625e.js.map"
   },
   "entrypoints": [
     "static/js/main.11ad625e.js"
